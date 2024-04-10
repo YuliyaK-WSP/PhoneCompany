@@ -51,7 +51,7 @@ namespace PhonsCompany
             }
             else
             {
-                    MessageBox.Show("Абонент с таким номером телефона не найден.");
+                    MessageBox.Show("Нет абонентов, удовлетворяющих критерию поиска.");
             }
         }
     }

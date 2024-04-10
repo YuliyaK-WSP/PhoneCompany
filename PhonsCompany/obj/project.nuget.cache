@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEQrgUNRFO27oM15sxBJqa29w+5ayX9krllPE1xxfxxr5rA3+ncJN4dfhD6ZnlgWlo3aJ+rZ5sgXqzch0+8j5g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\repos\\PhoneCompany\\PhonsCompany\\PhonsCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.17\\microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.17\\microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.17\\microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.17\\microsoft.entityframeworkcore.inmemory.7.0.17.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\syncfusion.data.wpf\\25.1.39\\syncfusion.data.wpf.25.1.39.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\syncfusion.licensing\\25.1.39\\syncfusion.licensing.25.1.39.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\syncfusion.sfgrid.wpf\\25.1.39\\syncfusion.sfgrid.wpf.25.1.39.nupkg.sha512",
+    "C:\\Users\\Павел\\.nuget\\packages\\syncfusion.shared.wpf\\25.1.39\\syncfusion.shared.wpf.25.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
